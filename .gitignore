@@ -1,0 +1,7 @@
+build_encrypt.py
+test_unlock.py
+unlock_template.html
+finish.sh
+diag*.html
+debug*.html
+__pycache__/
